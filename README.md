@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Ricky & Morty app
+
+Deployed on Netlify at [https://rickandmortybyfescobar.netlify.app](https://rickandmortybyfescobar.netlify.app).
+
+Consuming API REST [Ricky & Morty API Rest](https://rickandmortyapi.com) endpoint [Characters](https://rickandmortyapi.com/api/character).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
