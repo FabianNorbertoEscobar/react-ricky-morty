@@ -1,4 +1,4 @@
-# Ricky & Morty app
+# Rick & Morty app
 
 Deployed on Netlify at [https://rickandmortybyfescobar.netlify.app](https://rickandmortybyfescobar.netlify.app).
 
